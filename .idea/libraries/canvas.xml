@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="canvas">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/canvas" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Desktop/canvas" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Desktop/canvas" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/canvas" recursive="false" type="SOURCES" />
+  </library>
+</component>

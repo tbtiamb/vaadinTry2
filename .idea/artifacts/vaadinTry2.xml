@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="vaadinTry2">
+    <output-path>$PROJECT_DIR$/out/artifacts/vaadinTry2</output-path>
+    <root id="archive" name="vaadinTry2.war">
+      <element id="javaee-facet-resources" facet="vaadinTry2/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="vaadinTry2" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Vaadin Server" />
+          <element id="library" level="project" name="canvas" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
